@@ -57,7 +57,7 @@ email: "1748571598@qq.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master
+- Undergraduate
 ---
 
 # 数据科学与工程学院

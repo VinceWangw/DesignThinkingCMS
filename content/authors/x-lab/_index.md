@@ -1,6 +1,6 @@
 ---
 # Display name
-title: hey -team e
+title: 设计思维小组E
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: 让你的在线课堂燃起来！
 
 # Organizations/Affiliations
 organizations:
-- name: East China Normal University
+- name: 华东师范大学
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
@@ -44,18 +44,20 @@ education[]:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: angle-right
+  icon_pack: fas
+- icon: angle-right
+  icon_pack: fas
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-# link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-# link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/X-lab2017
+  link: https://github.com/duanlianjie/DesignThinkingCMS
+- icon: angle-left
+  icon_pack: fas
+- icon: angle-left
+  icon_pack: fas
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,11 +72,10 @@ email: "wwang@dase.ecnu.edu.cn"
 user_groups:
 - admin
 ---
-**team-e** 是设计思维课程的一个小组。
+**设计思维小组E** 是设计思维课程的一个小组。
 我们小组主要研究关于在线互动课堂的设计，希望能够给用户一个很好的用户体验。
 
-**team-e** 
-其他内容写在这里
+设计思维小组E 其他内容写在这里
 
 我们小组研究的在线互动课堂目前提供以下功能:
 - 互动电子白板，支持多人同时板书

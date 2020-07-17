@@ -19,13 +19,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "R"
   description = "90%"
-  
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
-  
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
@@ -48,3 +48,4 @@ subtitle = ""
 #  description = "90%"
 
 +++
+

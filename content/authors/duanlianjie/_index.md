@@ -18,7 +18,7 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: 奥利给
 
 # List each interest with a dash
 interests:
@@ -28,12 +28,12 @@ interests:
 
 education:
   courses:
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
-  - course: Title course 1
-    institution: Name of Institution
-    year: 2012
+  - course: 体罚类-体罚与管理方向
+    institution: 豫章书院德育学校
+    year: 2014-2017
+  - course: 计算机类-谷歌黑客方向
+    institution: 山东蓝翔技师学院 
+    year: 2011-2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -42,16 +42,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: "mailto:duanlianjie1999@qq.com"
+- icon: weixin
   icon_pack: fab
-  link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=PERSON-ID
+  link: https://wx.qq.com/
+- icon: weibo
+  icon_pack: fab
+  link: https://weibo.com/
+- icon: zhihu
+  icon_pack: fab
+  link: https://www.zhihu.com
 - icon: github
   icon_pack: fab
-  link: https://github.com/USERNAME
+  link: https://github.com/duanlianjie
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -59,12 +62,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "duanlianjie1999@qq.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master
+- Undergraduate
 ---
 
 # 数据科学与工程学院

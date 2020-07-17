@@ -1,35 +1,38 @@
 ---
 # Display name
-title: "方孝君"
+title: "Test"
 
-# Username (this should match the folder name)
+# Username (this should match the folder name and the name on publications)
 authors:
-- "fangxiaojun"
+- "test"
 
 # Is this the primary user of the site?
 superuser: false
 
-# Role/position
-role: 2017级本科生
+# Role/position (e.g., Professor of Artificial Intelligence)
+role:
 
 # Organizations/Affiliations
 organizations:
-- name: East China Normal University
-  url: "http://www.ecnu.edu.cn/"
+- name: 
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: 向世界交付你的价值，并且获得回报!
+bio: 
 
+# List each interest with a dash
 interests:
-- Singing
-- Reading
-- photography
+- Interest 1
+- Interest 2
 
 education:
   courses:
-  - course: MEng in Computer Science
-    institution: East China Normal University
-    year: 2021
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
+  - course: Title course 1
+    institution: Name of Institution
+    year: 2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -38,13 +41,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:leofang666@163.com"  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/USERNAME
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab
-  link: https://github.com/leofang327
-- icon: zhihu
-  icon_pack: fab
-  link: https://www.zhihu.com/people/fang-xiao-jun-2-43
+  link: https://github.com/USERNAME
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -52,12 +58,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "leofang666@163.com"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
-# Set this to `[]` or comment out if you are not using People widget.
+#   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master
+- Group 1
+- Group 2
 ---
-
-## A handsome boy in X-Lab.

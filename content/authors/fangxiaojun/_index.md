@@ -1,16 +1,16 @@
 ---
 # Display name
-title: 方孝君
+title: "方孝君"
 
 # Username (this should match the folder name)
 authors:
-- fangxiaojun
+- "fangxiaojun"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 2019硕
+role: 2017级本科生
 
 # Organizations/Affiliations
 organizations:
@@ -18,20 +18,18 @@ organizations:
   url: "http://www.ecnu.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: hello world!
+bio: 向世界交付你的价值，并且获得回报!
 
 interests:
-- Swimming
-- Hiphop
+- Singing
+- Reading
+- photography
 
 education:
   courses:
   - course: MEng in Computer Science
     institution: East China Normal University
-    year: 2022
-  - course: BEng in Internet of Things
-    institution: Jiangnan University
-    year: 2017
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,7 +55,7 @@ social:
 email: "leofang666@163.com"
 
 # Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+# Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Master
 ---

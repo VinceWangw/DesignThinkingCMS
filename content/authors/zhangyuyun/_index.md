@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Zhangyuyun"
+title: "张驭云"
 
 # Username (this should match the folder name and the name on publications)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role:2019级本科生
+role: 2019级本科生
 
 # Organizations/Affiliations
 organizations:
@@ -64,6 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Group 1
-- Group 2
+- Master
 ---
+
+# 数据科学与工程学院

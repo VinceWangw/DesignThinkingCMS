@@ -2,6 +2,8 @@
 # Display name
 title: "段连杰"
 
+weight: 2
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "duanlianjie"

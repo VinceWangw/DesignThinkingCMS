@@ -2,6 +2,8 @@
 # Display name
 title: "徐敏"
 
+weight: 1
+
 # Username (this should match the folder name and the name on publications)
 authors:
 - "xumin"

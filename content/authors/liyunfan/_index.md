@@ -30,10 +30,10 @@ interests:
 education:
   courses:
   - course: Title course 1
-    institution: Name of Institution
+    institution: ECNU
     year: 2012
   - course: Title course 1
-    institution: Name of Institution
+    institution: ECNU
     year: 2012
 
 # Social/Academic Networking
